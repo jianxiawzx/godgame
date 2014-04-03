@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GodGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_title">GodGame--孜然肉夹馍力作，笨笨工作室鼎力出品，版权所有</string>
+    <string name="mess">GodGame是一款全力挑战你计算能力的一款益智游戏，如果你喜欢这款作品，请帮帮最贱一下！！</string>
+    <string name="myinfo">我的邮箱：jianxiawzx@126.com</string>
+    <string name="showon">音乐：开</string>
+    <string name="showoff">音乐：关</string>
+    <string name="highscore_mess">^_^您个个人纪录如下，请再接再厉，请证明您的智商把^_^</string>
+    <string name="btn_clear_highscore">我要清空个人记录</string>
+
+</resources>
