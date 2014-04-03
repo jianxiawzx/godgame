@@ -53,6 +53,7 @@ public class HighScoreActivity extends Activity{
 			textView.setText("OH,苍天啊，你还没有记录啊，赶紧去玩玩，挑战一下自己的智商吧！！！");
 			e.printStackTrace();
 		}
+		log.e("tsub_1","sub_1");
 		return null;
 		
 	}
