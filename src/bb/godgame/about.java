@@ -17,6 +17,7 @@ public class about extends Activity implements OnClickListener{
 		setContentView(R.layout.aboutview);
 		btnBack=(Button)findViewById(R.id.backmain);
 		btnBack.setOnClickListener(this);
+		log.e("hahaha","oncreate");
 	}
 	@Override
 	public void onClick(View arg0) {
